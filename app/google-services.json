@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946499348993",
+    "firebase_url": "https://walkr-9f773.firebaseio.com",
+    "project_id": "walkr-9f773",
+    "storage_bucket": "walkr-9f773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946499348993:android:52717a76ec6ab816",
+        "android_client_info": {
+          "package_name": "ie.nuim.cs.walkr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946499348993-hcc5f7n9octh3hs7hfppbl2fmclql2uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.nuim.cs.walkr",
+            "certificate_hash": "1ccfd7d07fccf5b3d5c846c375866a4b144afc34"
+          }
+        },
+        {
+          "client_id": "946499348993-ttr0ldnvnosg5u1sqs79h86qhnlcqos6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGFZXjT49Ve3GIrPumQmyNTXZCL227-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946499348993-ttr0ldnvnosg5u1sqs79h86qhnlcqos6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
